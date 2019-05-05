@@ -1,0 +1,15 @@
+body{
+    font-family: 'Knewave', cursive;
+    background-color: #2c3e50;
+}
+body h2{
+    font-size: 40px;
+}
+hr {
+ 
+    background: #fff;
+}
+.row.footer_text {
+    color: #fff;
+    font-family: ari;
+}
